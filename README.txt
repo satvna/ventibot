@@ -1,13 +1,13 @@
 								+------------------+
-								|	  Ventibot     |
-								|	  version      |
-								|	    1.0        |
+								|     Ventibot     |
+								|     version      |
+								|	1.0        |
 								+------------------+
 								(\__/) ||
 								(•ㅅ•) ||
 								/ 　 づ
 +-------------------------+
-		 About
+	  About
 +-------------------------+
 Ventibot is a simple bot that uses the Youtube API to store Youtube links in a single playlist.
 It requires you to create a project in the Google Developer's Console with O2Auth.
